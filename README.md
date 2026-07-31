@@ -44,9 +44,15 @@ The website consists of a basic HTML page with CSS styling and a small JavaScrip
 After enabling GitHub Pages, the website is available at:
 
 ```
-https://YOUR_USERNAME.github.io/github-pages-demo/
+https://deadl0x8.github.io/github-pages-demo/
 ```
 
 ## Outcome
 
 This task helped me understand how static websites can be deployed using GitHub Pages and how changes pushed to GitHub are automatically reflected on the live website.
+
+
+## Author
+
+**Ayush Mankar**
+
